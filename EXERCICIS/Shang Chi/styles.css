@@ -1,0 +1,138 @@
+header{
+background-color: black;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+.logomarvel1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shangchi{
+    text-align: center;
+    color: gold;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.portada{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo1{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;
+}
+
+p{
+    margin-top: 0%;
+}
+
+.texto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.titulo2{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    margin-bottom: 4%;
+}
+
+
+.button{
+    display: block;
+    text-decoration: none;
+    background-color: brown;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 3px solid orange;
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button:hover{
+    background-color: red;
+    color: white;
+}
+
+.separacion{
+    display: block;
+    margin-top: 50px;
+    margin-left: 28%;
+    margin-right: 30%;
+
+}
+
+.titulo3{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;
+}
+
+.video{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    border: solid;
+    border-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.imagenes{
+    text-align: center;
+}
+
+.imagenes2{
+    text-align: center;
+    border: solid;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-color: white;
+}
+
+.divfinal{
+    display: block;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+footer{
+    padding-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.azul{
+    color: blue;
+    text-align: left;
+    text-decoration: none;
+}

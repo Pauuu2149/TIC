@@ -1,0 +1,44 @@
+body{background-color: black;
+    color: white;}
+table{
+    border-collapse: collapse;
+    width: 80%;
+   }
+th{
+    text-align: left;
+    padding: 10px;
+    background-color:darkslategray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: smaller;
+    text-align: left;
+}
+td {
+    text-align: left;
+    color: rgb(255, 255, 255);
+padding: 7px;
+}
+tr:hover{background-color: grey;}
+
+.foto{
+    width: 40px;
+}
+
+.cancion{
+    height: 10px;
+}
+
+.artista{
+    height: 10px;
+}
+
+.album{
+    height: 10px;
+}
+
+.fecha{
+    height: 10px;
+}
+.duración{
+    height: 10px;
+}

@@ -1,0 +1,105 @@
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: red;
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+table{
+    background-color: rgb(206, 206, 206);
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: 30px
+}
+
+caption{
+    background-color: white;
+    color:red;
+    text-align: left;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.dato{
+    font-weight: bold;
+    padding-left: 0px;
+}
+
+.info{
+    font-weight: bold;
+    background-color: white;
+}
+
+hr{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h4{
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+p{
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-weight: bold;
+}
+
+td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.qr{
+    float: left;
+    
+}
+
+
+.tabla2{
+    background-color: white;
+    text-align: center;
+}
+
+.td1{
+    color: red;
+    text-align: left;
+}
+
+.td2{
+    color: red;
+    text-align: right;
+}
+
+.td3{
+    text-align: left;
+}
+
+.td4{
+    text-align: right;
+}
+
+.tabla2{
+    text-align: right;
+}
+
+.td5{
+    color: red;
+}
