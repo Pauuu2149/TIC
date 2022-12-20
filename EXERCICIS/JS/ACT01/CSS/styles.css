@@ -1,0 +1,11 @@
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orange;
+    text-align: center;
+}
+
+.ordenador{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
